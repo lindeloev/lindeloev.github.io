@@ -1,6 +1,3 @@
-
-# Tutorials in this domain:
-
 ## [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 
 This contains some simulations of the rank-correspondence between parametric tests and non-parametric equivalents:
