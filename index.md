@@ -1,3 +1,7 @@
+## [mcp: Bayesian Inference of Multiple Change Points](https://lindeloev.github.io/mcp/)
+An R package that brings great flexibility to the estimation of change points between Generalized Linear Segments. Extensive documentation and worked examples are available on the website.
+
+
 ## [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 Demonstrates that almost all of the stats 101 tests are special cases of (simple) linear models, including "non-parametric" tests to some approximation. To establish this, I simulated the rank-correspondence between parametric tests and non-parametric equivalents:
 
