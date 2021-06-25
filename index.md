@@ -1,3 +1,7 @@
+## [job: free your RStudio console](https://lindeloev.github.io/job)
+An R package that allows the user to run code chunks as RStudio jobs. The console is then free to continue working, enabling an uninterrupted coding experience.
+
+
 ## [mcp: Bayesian Inference of Multiple Change Points](https://lindeloev.github.io/mcp/)
 An R package that brings great flexibility to the estimation of change points between Generalized Linear Segments. Extensive documentation and worked examples are available on the website.
 
